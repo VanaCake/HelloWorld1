@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello">Hello!</string>
+    <string name="button">Press Me</string>
+    <string name="image">image</string>
+    <string name="goodbye">Goodbye!</string>
+</resources>
